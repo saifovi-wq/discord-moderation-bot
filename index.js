@@ -4,7 +4,6 @@ const mongoose = require('mongoose');
 const {
 	prefix, 
 	token,
-	defaultCooldown,
 	MongoConnectionUrl,
 		} = require('./config.json');
 const { miscellaneous } = require('./Assets/Static/embeds');
