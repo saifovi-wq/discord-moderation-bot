@@ -1,6 +1,6 @@
 {
-    "token": "YOUR_BOT_TOKEN",
-    "prefix": "",
+    "token": "MTUxNDM5OTkyNTc0NjY2MzU5Ng.G8usCE.BBsaekWNFQ01IWvMAu24Qh9WdwID53cjTOX9wk",
+    "prefix": "!!",
     "MongoConnectionUrl": "",
     "defaultCooldown": 1,
     "accentColor": ""
