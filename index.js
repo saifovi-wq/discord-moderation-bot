@@ -2,11 +2,11 @@ const fs = require('fs');
 const { Client, Intents } = require('discord.js');
 const mongoose = require('mongoose');
 const {
-	prefix,
-	token,
-	defaultCooldown,
-	MongoConnectionUrl,
-} = require('./config.json');
+	prefix, {!!}
+	token, "MTUxNDM5OTkyNTc0NjY2MzU5Ng.G8usCE.BBsaekWNFQ01IWvMAu24Qh9WdwID53cjTOX9wk"	
+	defaultCooldown,"1"
+	MongoConnectionUrl,"mongodb+srv://ff8394452_db_user:HnZvZIokdAMyQwOZ@saif08.yk67ql9.mongodb.net/?appName=Saif08",
+		} = require('./config.json');
 const { miscellaneous } = require('./Assets/Static/embeds');
 const Modlogs = require('./Schemas/modlog');
 const Settings = require('./Schemas/settings');
