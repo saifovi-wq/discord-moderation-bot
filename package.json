@@ -29,6 +29,7 @@
 	"dependencies": {
 		"discord.js": "^13.0.1",
 		"mongoose": "^8.4.1"
+         "port", : 3000
 	},
 	"optionalDependencies": {
 		"bufferutil": "^4.0.3",
